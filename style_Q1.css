@@ -1,0 +1,13 @@
+
+body {
+    background-color: cornflowerblue;
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+ul {
+    text-align: center;
+}
+li {
+    display: block;
+}
+
